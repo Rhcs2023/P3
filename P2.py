@@ -549,14 +549,14 @@ def reproducir_audio(texto, lang):
             audio_bytes = audio_file.read()
     return audio_bytes
 
-st.title("Traductor de palabras")
+st.title("Traductor de Español a Mixteco de Chalcatongo Oaxaca")
 
 # Estado de la sesión para la traducción
 if 'oracion_traducida' not in st.session_state:
     st.session_state.oracion_traducida = ""
 
 # Opción para introducir texto
-oracion_usuario = st.text_input("Introduce una oración para traducir:")
+oracion_usuario = st.text_input("Introduce una oración, los pronombres posesivos van despues del verbo ejemplo: Padre mi va al centro, presiona enter:")
 
 # Traducir la oración ingresada por el usuario
 if oracion_usuario:
