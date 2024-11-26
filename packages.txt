@@ -1,1 +1,1 @@
-pip install gTT
+pip install gtts
