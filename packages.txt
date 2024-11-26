@@ -1,2 +1,2 @@
-gTT
-pip install gTT
+
+gTT-dev
