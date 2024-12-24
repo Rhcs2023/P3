@@ -276,7 +276,7 @@ diccionario = {
        'inesperado': 'ama ', 
        'inocente': 'anajini ',
        'inutil': 'anandíii ',
-       'ir': 'ki (futuro) ',
+       'ir': 'ki ',
        'irse': 'kihín ',
        'hoy': 'avine ',
        'ignora': 'atuu '  '  ini' ,
